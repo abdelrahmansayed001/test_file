@@ -1,0 +1,4 @@
+D:\DEPI\python\final_project\test_file\telegram_alerter.py:83: DeprecationWarning: key_deserializer does not implement kafka.serializer.Deserializer
+  consumer = KafkaConsumer(
+D:\DEPI\python\final_project\test_file\telegram_alerter.py:83: DeprecationWarning: value_deserializer does not implement kafka.serializer.Deserializer
+  consumer = KafkaConsumer(

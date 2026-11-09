@@ -1,0 +1,26 @@
+[Kafka] connecting consumer...
+[AIVEN] connecting...
+[AIVEN] connected to Aiven Postgres
+[AIVEN] schema ready.
+[Kafka] consuming topic='sensor-readings' servers=localhost:9092 group='aiven-consumer-group'
+[AIVEN] inserted 10 rows (total=10)
+[AIVEN] inserted 5 rows (total=15)
+[AIVEN] inserted 5 rows (total=20)
+[AIVEN] inserted 10 rows (total=30)
+[AIVEN] inserted 10 rows (total=40)
+[AIVEN] inserted 10 rows (total=50)
+[AIVEN] inserted 10 rows (total=60)
+[AIVEN] inserted 10 rows (total=70)
+[AIVEN] inserted 5 rows (total=75)
+[AIVEN] inserted 5 rows (total=80)
+[AIVEN] inserted 5 rows (total=85)
+[AIVEN] inserted 5 rows (total=90)
+[AIVEN] inserted 10 rows (total=100)
+[AIVEN] inserted 10 rows (total=110)
+[AIVEN] inserted 10 rows (total=120)
+[AIVEN] inserted 10 rows (total=130)
+[AIVEN] inserted 10 rows (total=140)
+[AIVEN] inserted 5 rows (total=145)
+[AIVEN] inserted 10 rows (total=155)
+[AIVEN] inserted 10 rows (total=165)
+[AIVEN] inserted 5 rows (total=170)

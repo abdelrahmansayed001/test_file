@@ -1,0 +1,4 @@
+D:\DEPI\python\final_project\test_file\kafka_consumer_aiven.py:51: DeprecationWarning: key_deserializer does not implement kafka.serializer.Deserializer
+  return KafkaConsumer(
+D:\DEPI\python\final_project\test_file\kafka_consumer_aiven.py:51: DeprecationWarning: value_deserializer does not implement kafka.serializer.Deserializer
+  return KafkaConsumer(

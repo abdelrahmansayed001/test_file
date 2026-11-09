@@ -1,0 +1,8 @@
+D:\DEPI\python\final_project\test_file\anomaly_detector.py:146: DeprecationWarning: key_deserializer does not implement kafka.serializer.Deserializer
+  consumer = KafkaConsumer(
+D:\DEPI\python\final_project\test_file\anomaly_detector.py:146: DeprecationWarning: value_deserializer does not implement kafka.serializer.Deserializer
+  consumer = KafkaConsumer(
+D:\DEPI\python\final_project\test_file\anomaly_detector.py:229: DeprecationWarning: key_serializer does not implement kafka.serializer.Serializer
+  main()
+D:\DEPI\python\final_project\test_file\anomaly_detector.py:229: DeprecationWarning: value_serializer does not implement kafka.serializer.Serializer
+  main()

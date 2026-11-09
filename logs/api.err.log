@@ -1,0 +1,41 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:8001
+Press CTRL+C to quit
+D:\DEPI\python\final_project\test_file\kafka_api_flask.py:105: DeprecationWarning: key_serializer does not implement kafka.serializer.Serializer
+  kafka_ok = bool(get_producer().bootstrap_connected())
+D:\DEPI\python\final_project\test_file\kafka_api_flask.py:105: DeprecationWarning: value_serializer does not implement kafka.serializer.Serializer
+  kafka_ok = bool(get_producer().bootstrap_connected())
+127.0.0.1 - - [04/Nov/2026 20:26:04] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 20:26:13] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:16] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:19] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:22] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:25] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:28] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:32] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:35] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:38] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:41] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:44] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:47] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:50] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:53] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:56] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:26:59] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:02] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:05] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:08] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:11] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:14] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:18] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:21] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:24] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:27] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:30] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:33] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:36] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:39] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:42] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:45] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:48] "POST /readings/batch HTTP/1.1" 202 -
+127.0.0.1 - - [04/Nov/2026 20:27:51] "POST /readings/batch HTTP/1.1" 202 -

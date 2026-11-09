@@ -1,0 +1,3 @@
+[detector] listening on 'sensor-readings' -> 'sensor-alerts'
+[detector] rules: temp [2.0,8.0]C  humidity [40.0,80.0]%  silence>15s  cooldown=300s
+[detector] TEMP_LOW DEV004: DEV004 at Giza OC: temperature -1.86C below 2.0C
